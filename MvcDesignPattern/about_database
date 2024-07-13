@@ -1,0 +1,8 @@
+Create database database mvc_database ;
+
+
+use  mvc_database
+
+
+
+create table students(FullName varchar(20) , Email varchar(22), Password varchar(33), Address(222) );
